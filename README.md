@@ -26,3 +26,7 @@ Getting Started
   ```
   python3 test_main.py
   ```
+### Errors I encountered:
+* Not being familiar with Python so I brushed up using w3schools.
+* VIM popped up when I encountered an error so I had to look up how to use it.
+* Not having main.py as the default branch
